@@ -1,4 +1,9 @@
 body {
     background-color: peru;
     font-size: 14px;
+};
+
+footer {
+    background-color: aquamarine;
+    padding: 10px;
 }
